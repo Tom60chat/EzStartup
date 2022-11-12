@@ -4,7 +4,7 @@ Easily start your application with Windows on startup.
 
 ## Download:
 
-[Last release](https://github.com/Tom60chat/Chrome-Rich-Presence/releases)
+[Last release](https://github.com/Tom60chat/EzStartup/releases)
 
 ## How to use?
 
